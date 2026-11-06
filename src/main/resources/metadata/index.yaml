@@ -1,0 +1,8 @@
+group: io.kestra.plugin.razorpay
+name: "razorpay"
+title: "Razorpay"
+description: "Tasks for managing payments, orders, and refunds with Razorpay"
+body: ""
+videos: []
+createdBy: "Kestra Community"
+managedBy: "Kestra Community"
